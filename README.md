@@ -2,6 +2,7 @@ html-emails
 Hi! Welcome to the Read Me page!
 
 Project Title: Manly Pomades
+https://nicolenartea.github.io/manly-pomades/
 
 RESOURCES:
 
